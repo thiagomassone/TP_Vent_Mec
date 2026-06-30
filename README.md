@@ -55,7 +55,7 @@ El notebook asume que `signals/` e `img/` están en el mismo directorio que el `
 https://drive.google.com/file/d/1cP-RUoCUsWdLG03Q3c3AUjhEpd9NW6i6/view?usp=sharing
 
 
-## Estructura del desarrollo (dentro del notebook)
+## Estructura del desarrollo (dentro de la notebook)
 
 1. Exploración de las señales disponibles y selección de la más adecuada
 2. Selección de tramos de respiración pasiva (justificado con Pes)
