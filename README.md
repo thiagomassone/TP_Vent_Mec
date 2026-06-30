@@ -52,17 +52,8 @@ jupyter notebook TP_consigna4.ipynb
 El notebook asume que `signals/` e `img/` están en el mismo directorio que el `.ipynb` (rutas relativas), por lo que clonar el repo tal cual ya deja todo en su lugar.
 
 ### Opción 2 — Google Colab
+https://drive.google.com/file/d/1cP-RUoCUsWdLG03Q3c3AUjhEpd9NW6i6/view?usp=sharing
 
-1. Subir `TP_consigna4.ipynb` a Google Drive (o abrirlo directo desde GitHub vía *File → Open notebook → GitHub* en Colab, pegando la URL de este repositorio).
-2. Subir las carpetas `signals/` e `img/` a la misma ubicación en Drive.
-3. Al principio del notebook, montar Drive y posicionarse en la carpeta correspondiente:
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
-   import os
-   os.chdir('/content/drive/MyDrive/<ruta-a-la-carpeta>')
-   ```
-4. Correr el resto de las celdas normalmente.
 
 ## Estructura del desarrollo (dentro del notebook)
 
