@@ -36,7 +36,7 @@ Ambos valores se encuentran dentro de rangos fisiológicos normales. El detalle 
 └── img/                      # Imágenes usadas en el notebook (logo, diagrama del modelo)
 ```
 
-## Cómo correr el notebook
+## Cómo correr la notebook
 
 ### Opción 1 — Localmente (Jupyter / VS Code)
 
