@@ -2,6 +2,8 @@
 venv/
 .venv/
 env/
+venv2/
+.venv2/
 
 # Checkpoints de Jupyter
 .ipynb_checkpoints/
